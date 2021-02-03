@@ -10,9 +10,7 @@ public class Main {
 		
 		gr1.leggTilVenner("Anne","Edvard" );
 		gr1.leggTilVenner("Bjørn","Edvard" );
-		gr1.leggTilVenner("Bjørn","Fiona" );
-		
+		gr1.leggTilVenner("Bjørn","Fiona" );	
 		gr1.visGraf();		
 	}
-
 }
